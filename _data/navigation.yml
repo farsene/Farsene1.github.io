@@ -3,7 +3,7 @@ main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
     ## trying to add downlaodable
-    title: "About"
+    title: "Download POLAR"
     url: https://farsene1.github.io/_pages/client-0.1.0.jar
   # - title: "Sample Posts"
   #   url: /year-archive/
