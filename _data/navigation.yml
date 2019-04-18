@@ -1,11 +1,10 @@
 # main links
 main:
-  - title: "About"
-    url: /about/
-  - title: "Data Wrangling Projects"
-    url: /data-wrangling/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Quick-Start Guide"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    ## trying to add downlaodable
+    title: "Download POLAR"
+    url: https://farsene1.github.io/_pages/client-0.1.0.jar
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
